@@ -1,0 +1,1221 @@
+body {
+    background-color: rgb(241, 240, 240); /* Set the background color to a shade of gray */
+}
+.logo {
+    position: absolute;
+    width: 114px;
+    height: 31.77px;
+    top: 62.46px;
+    left: 101px;
+    }
+    @font-face {
+        font-family: 'Futura PT';
+        src: url('futura-pt.woff') format('woff');
+    }
+    .text {
+        position: absolute;
+        font-family: "Futura PT";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+    }
+    
+    #testimonials {
+        top: 50px;
+        left: 295px;
+        color: rgba(79, 79, 79, 1);
+
+
+    }
+    
+    #blog {
+        top: 50px;
+        left: 405px;
+        color: rgba(79, 79, 79, 1);
+
+    }
+    
+    #pricing-startups {
+        top: 50px;
+        left: 460px;
+        color: rgba(79, 79, 79, 1);
+
+    }
+    
+    #pricing-smb {
+        top: 50px;
+        left: 615px;
+        color: rgba(79, 79, 79, 1);
+
+    }
+
+    .button {
+        position: absolute;
+        width: 266px;
+        height: 80px;
+        top: 50px;
+        right: 50px; /* Position the button on the right side */
+        background: rgba(255, 86, 29, 1);
+        color: white;
+        font-family: "Futura PT";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 80px;
+        text-align: center;
+        border-radius: 25px;
+        cursor: pointer;
+    }
+
+    #agri-tech-text {
+        position: absolute;
+        width: 718px;
+        height: 313px;
+        top: 150px;
+        left: 165px;
+        gap: 0;
+        opacity: 1;
+        font-family: "Futura PT";
+        font-size: 80px;
+        font-weight: 900;
+        line-height: 90.36px;
+        text-align: left;
+    }
+    #agriculture-text {
+        position: absolute;
+        width: 540px;
+        height: 66px;
+        top: 590px;
+        left: 165px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgba(79, 79, 79, 1);
+    }
+    #изоброжение1 {
+        position: absolute;
+        width: 1133px;
+        height: 1155px;
+        top: 13px;
+        left: 633px;
+        gap: 0;
+        opacity: 1; 
+    }
+    
+    #second-button {
+        position: absolute;
+        width: 304px;
+        height: 80px;
+        top: 710px; 
+        left: 165px; 
+        gap: 0;
+        opacity: 1; 
+        background: rgba(76, 64, 247, 1);
+        color: white;
+        font-family: "Futura PT";
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 80px;
+        text-align: center;
+        border-radius: 25px; /* Rounded corners */
+        cursor: pointer;
+    }
+    #second-button:hover {
+        background-color: rgba(76, 64, 247, 0.8);
+    }
+
+    #shariki-image {
+        position: absolute;
+        width: 494px;
+        height: 368px;
+        top: 724px;
+        left: 637px;
+        gap: 0;
+        opacity: 1; 
+    }
+
+    #our-cases-text {
+        position: absolute;
+        width: 85px;
+        height: 28px;
+        top: 1101px; /* Add your desired top position */
+        left: 140px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 20px;
+        font-weight: 900;
+        line-height: 28px;
+        text-align: left;
+        color: rgba(76, 64, 247, 1);
+    }
+    #building-ideas-text {
+        position: absolute;
+        width: 467px;
+        height: 156px;
+        top: 1120px;
+        left: 136px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+    }
+    #opportunities-text {
+        position: absolute;
+        width: 517px;
+        height: 24px;
+        top: 1349px;
+        left: 134px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgba(79, 79, 79, 1);
+    }
+
+    #card1 {
+        position: absolute;
+        width: 568px;
+        height: 638px;
+        top: 1481px;
+        left: 136px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the image visible */
+    }
+
+    #card2 {
+        position: absolute;
+        width: 568px;
+        height: 638px;
+        top: 1481px;
+        left: 736px;
+        gap: 0;
+        opacity: 1;    
+    }
+
+    #offer-text {
+        position: absolute;
+        width: 124px;
+        height: 659px;
+        left: 657px;
+        top: 2364px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 20px;
+        font-weight: 900;
+        line-height: 28px;
+        text-align: left;
+        color: rgba(76, 64, 247, 1);
+    }
+
+    #capabilities-heading {
+        position: absolute;
+        width: 593px;
+        height: 78px;
+        top: 2420px;
+        left: 423px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: center;
+        color: rgba(51, 51, 51, 1);
+    }
+    #product-text {
+        position: absolute;
+        width: 661px;
+        height: 24px;
+        top: 2532px;
+        left: 389px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: center;
+        color: rgba(79, 79, 79, 1);
+    }
+
+    .rectangle {
+        position: absolute;
+        width: 500px;
+        height: 680px;
+        top: 2642px;
+        left: 200px;
+        gap: 0;
+        border: 1px solid rgb(255, 255, 255);
+        background-color: rgb(255, 254, 254); 
+        border-radius: 10%;
+        opacity: 1; 
+    }
+    
+    .h5 {
+        position: absolute;
+        width: 318px;
+        height: 80px;
+        top: 0px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgba(41, 41, 48, 1);
+    }
+    
+    .p1 {
+        position: absolute;
+        width: 318px;
+        height: 136px;
+        top: 283px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgba(130, 130, 130, 1);
+    }
+    
+    .custom-button {
+        position: absolute;
+        width: 340px;
+        height: 82px;
+        top: 528px;
+        left: 80px;
+        padding: 29px 86px 27px 86px;
+        gap: 10px;
+        border-radius: 20px;
+        opacity: 1; /* Change opacity to 1 to make the button visible */
+        color: rgb(255, 255, 255);
+        background-color: rgba(76, 64, 247, 0.8);
+    }
+    #shariki2-image {
+        position: absolute;
+        width: 64px;
+        height: 64px;
+        top: 2544px;
+        left: 120px;
+        gap: 0;
+        opacity: 1; 
+    }
+
+    .rectangle1 {
+        position: absolute;
+        width: 500px;
+        height: 680px;
+        top: 2642px;
+        left: 740px;
+        gap: 0;
+        border: 1px solid rgb(89, 86, 233, 1);
+        background-color: rgb(89, 86, 233, 1); 
+        border-radius: 10%;
+        opacity: 1; 
+    }
+    
+    .h6 {
+        position: absolute;
+        width: 318px;
+        height: 80px;
+        top: 0px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(255, 255, 255);
+    }
+    
+    .p2 {
+        position: absolute;
+        width: 318px;
+        height: 136px;
+        top: 283px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgb(245, 240, 240);
+    }
+    
+    .custom-button1 {
+        position: absolute;
+        width: 340px;
+        height: 82px;
+        top: 528px;
+        left: 80px;
+        padding: 29px 86px 27px 86px;
+        gap: 10px;
+        border-radius: 20px;
+        opacity: 1; /* Change opacity to 1 to make the button visible */
+        color: rgb(37, 34, 186, 1);
+        background-color: rgba(255, 255, 255, 0.8);
+    }
+
+    .rectangle2 {
+        position: absolute;
+        width: 500px;
+        height: 680px;
+        top: 3362px;
+        left: 200px;
+        gap: 0;
+        border: 1px solid rgb(255, 255, 255);
+        background-color: rgb(255, 255, 255); 
+        border-radius: 10%;
+        opacity: 1; 
+    }
+    
+    .h7 {
+        position: absolute;
+        width: 318px;
+        height: 80px;
+        top: 0px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(41, 41, 48, 1);
+    }
+    
+    .p3 {
+        position: absolute;
+        width: 318px;
+        height: 136px;
+        top: 283px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgb(130, 130, 130, 1);
+    }
+    
+    .custom-button2 {
+        position: absolute;
+        width: 340px;
+        height: 82px;
+        top: 528px;
+        left: 80px;
+        padding: 29px 86px 27px 86px;
+        gap: 10px;
+        border-radius: 20px;
+        opacity: 1; /* Change opacity to 1 to make the button visible */
+        color: rgb(255, 255, 255);
+        background-color: rgba(76, 64, 247, 0.8);
+    }
+
+    .rectangle3 {
+        position: absolute;
+        width: 500px;
+        height: 680px;
+        top: 3362px;
+        left: 740px;
+        gap: 0;
+        border: 1px solid rgb(255, 255, 255);
+        background-color: rgb(255, 255, 255); 
+        border-radius: 10%;
+        opacity: 1; 
+    }
+    
+    .h8 {
+        position: absolute;
+        width: 318px;
+        height: 80px;
+        top: 0px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; 
+        font-family: "Futura PT";
+        font-size: 72px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(41, 41, 48, 1);
+    }
+    
+    .p4 {
+        position: absolute;
+        width: 318px;
+        height: 136px;
+        top: 283px;
+        left: 80px;
+        gap: 0;
+        opacity: 1; /* Change opacity to 1 to make the text visible */
+        font-family: "Futura PT";
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 33.77px;
+        text-align: left;
+        color: rgb(130, 130, 130, 1);
+    }
+    
+    .custom-button3 {
+        position: absolute;
+        width: 340px;
+        height: 82px;
+        top: 528px;
+        left: 80px;
+        padding: 29px 86px 27px 86px;
+        gap: 10px;
+        border-radius: 20px;
+        opacity: 1; /* Change opacity to 1 to make the button visible */
+        color: rgb(255, 255, 255);
+        background-color: rgba(76, 64, 247, 0.8);
+    }
+
+    .toggle {
+        display: inline-block;
+        position: relative;
+        width: 60px;
+        height: 30px;
+    }
+    
+    .toggle input {
+        display: none;
+    }
+    
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        transition: .4s;
+        border-radius: 15px;
+    }
+    
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 26px;
+        width: 26px;
+        left: 2px;
+        bottom: 2px;
+        background-color: white;
+        transition: .4s;
+        border-radius: 50%;
+    }
+    
+    input:checked + .slider {
+        background-color: #cfcfcf;
+    }
+    
+    input:checked + .slider:before {
+        transform: translateX(30px);
+    }
+
+    .dark-background {
+        position: absolute;
+        width: 1440px;
+        height: 900px;
+        left: 0px;
+        top: 4241px;
+        background-image: url('Background.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+       
+    }
+
+    .process-text {
+        position: absolute;
+        width: 772px;
+        height: 156px;
+        top: 150px;
+        left: 468px;
+        gap: 0px;
+        opacity: 1;
+        font-family: 'Futura PT';
+        font-size: 100px;
+        font-weight: 900;
+        line-height: 78px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(241, 241, 241) !important;
+
+    }
+
+    .process-text1 {
+        position: absolute;
+        width: 121px;
+        height: 28px;
+        top: 150px;
+        left: 200px;
+        gap: 0px;
+        opacity: 1;
+        font-family: 'Futura PT';
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(255, 255, 255, 1) !important;
+
+    }
+    .process-text2 {
+        position: absolute;
+        width: 502px;
+        height: 23px;
+        top: 342px;
+        left: 468px;
+        gap: 0px;
+        opacity: 1;
+        font-family: 'Futura PT';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23.08px;
+        letter-spacing: -0.5px;
+        text-align: left;
+        color: rgb(255, 255, 255, 1) !important;
+        opacity: 0.5;
+
+    }
+
+    .monitor {
+      position: absolute;
+      top: 505px;
+      left: 468px;
+      width: 80px;
+      height: 80px;
+      opacity: 1;
+    }
+    .toggle {
+        position: relative;
+    }
+    
+    .toggle input {
+        display: none;
+    }
+    
+    .slider {
+        position: absolute;
+        top: 503px;
+        left: 953px;
+        width: 50px;
+        height: 26px;
+        background-color: #9c9c9c;
+        border-radius: 13px;
+        overflow: hidden; 
+        transition: background-color 0.3s;
+    }
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 22px;
+        width: 22px;
+        left: 2px;
+        bottom: 2px;
+        background-color: white;
+        border-radius: 50%;
+        transition: transform 0.3s;
+    }
+   
+    .toggle1 {
+        position: relative;
+    }
+    
+    .toggle1 input {
+        display: none;
+    }
+    
+    .slider1 {
+        position: absolute;
+        top: 540px;
+        left: 895px;
+        width: 50px;
+        height: 26px;
+        background-color: #9c9c9c;
+        border-radius: 13px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    .slider1::after {
+        content: "";
+        position: absolute;
+        height: 22px;
+        width: 22px;
+        left: 2px;
+        bottom: 2px;
+        background-color: white;
+        border-radius: 50%;
+        transition: transform 0.3s;
+        
+    }
+    
+    .process-text3 {
+        position: absolute;
+        width: 125px;
+        height: 36px;
+        top: 621px;
+        left: 470px;
+        gap: 0;
+        opacity: 1; 
+        font-family: 'Futura PT';
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 36.4px;
+        letter-spacing: -0.045em;
+        text-align: left;
+       color: #ccc;
+
+    }
+
+   .process-text4 {
+       position: absolute;
+       width: 325px;
+       height: 72px;
+       top: 688px;
+       left: 470px;
+       gap: 0px;
+       opacity: 1;
+       font-family: 'Futura PT';
+       font-size: 20px;
+       font-weight: 400;
+       line-height: 24px;
+       letter-spacing: -0.025em;
+       text-align: left;
+       color: rgba(147, 147, 150, 1);
+
+   } 
+.process-text5 {
+    position: absolute;
+    width: 213px;
+    height: 36px;
+    top: 621px;
+    left: 959px;
+    gap: 0px;
+    opacity: 1;
+    font-family: 'Futura PT';
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 36.4px;
+    letter-spacing: -0.045em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    
+}
+
+.process-text6 {
+    position: absolute;
+    width: 320px;
+    height: 72px;
+    top: 688px;
+    left: 920px;
+    gap: 0px;
+    opacity: 1;
+    font-family: 'Futura PT';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.025em;
+    text-align: left;
+    color: rgba(147, 147, 150, 1);
+    /* Дополнительные стили, если необходимо */
+}
+/* Стили для стрелок */
+.arrow-left, .arrow-right {
+    width: 50px;
+    height: 50px; 
+    cursor: pointer;
+}
+
+
+.arrow-left {
+    background-image: url('Right\ arrow\ button.svg'); 
+    position: absolute;
+    transform: scaleX(-1);
+    top: 718px;
+    left: 239px; 
+    
+}
+
+.arrow-right {
+    background-image: url('Right\ arrow\ button.svg');
+    position: absolute;
+    top: 718px;
+    left: 296px; 
+    
+}
+
+
+/* Обработка клика на стрелку */
+.arrow-left, .arrow-right {
+    transition: transform 0.3s; /* Добавляем анимацию на нажатие */
+    
+}
+
+.arrow-left:hover, .arrow-right:hover {
+    transform: scale(1.1); /* Увеличиваем размер при наведении */
+}
+
+.poloska {
+    position: absolute;
+    width: 40px;
+    height: 1px;
+    top: 510px;
+    left: 250px;
+    margin: 0; /* Вместо gap используем margin */
+    opacity: 1; /* Значение прозрачности должно быть от 0 (полностью прозрачный) до 1 (полностью непрозрачный) */
+}
+
+.namber1 {
+position: absolute;
+  width: 17px;
+  height: 16px;
+  top: 503px;
+  left: 215px;
+  gap: 0px;
+  opacity: 1px;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 15.89px;
+  letter-spacing: -0.025em;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+}
+
+.namber2 {
+    position: absolute;
+  width: 18px;
+  height: 16px;
+  top: 503px;
+  left: 310px;
+  gap: 0px;
+  opacity: 0.3;
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 15.89px;
+  letter-spacing: -0.025em;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+
+}
+.agritech-block {
+    position: absolute;
+    top: 154px;
+    width: 266px;
+    height: 28px;
+    left: 530px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-weight: 1000;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(76, 64, 247, 1);
+}
+.agritech-block1 {
+    position: absolute;
+    top: 207px;
+    width: 266px;
+    height: 28px;
+    left: 520px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 37.77px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+.agritech-block2 {
+    position: absolute;
+    top: 438px;
+    width: 266px;
+    height: 28px;
+    left: 145px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(76, 64, 247, 1);
+}
+
+.agritech-block3 {
+    position: absolute;
+    top: 494px;
+    width: 467px;
+    height: 156px;
+    left: 141px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 78px;
+    text-align: left;
+    color: rgba(51, 51, 51, 1);
+}
+.agritech-block4 {
+    position: absolute;
+    top: 686px;
+    width: 517px;
+    height: 196px;
+    left: 139px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.77px;
+    text-align: left;
+    color: rgba(79, 79, 79, 1);
+}
+
+.custom-button01 {
+    position: absolute;
+    width: 340px;
+    height: 82px;
+    top: 970px;
+    left: 215px;
+    padding: 29px 86px 27px 86px;
+    gap: 10px;
+    border-radius: 20px;
+    opacity: 1; 
+    color: rgb(255, 255, 255);
+    background-color: rgba(76, 64, 247, 0.8);
+}
+
+.cartinca{
+    position: absolute;
+    width: 452px;
+    height: 540px;
+    top: 466px;
+    left: 796px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca1{
+    position: absolute;
+    width: 284px;
+    height: 333px;
+    top: 715px;
+    left: 1024px;
+    gap: 0;
+    opacity: 1; 
+}
+
+.agritech-block5 {
+    position: absolute;
+    top: 1206px;
+    width: 266px;
+    height: 28px;
+    left: 703px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(76, 64, 247, 1);
+}
+.agritech-block6 {
+    position: absolute;
+    top: 1262px;
+    width: 467px;
+    height: 156px;
+    left: 703px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 78px;
+    text-align: left;
+    color: rgba(51, 51, 51, 1);
+}
+.agritech-block7 {
+    position: absolute;
+    top: 1454px;
+    width: 517px;
+    height: 196px;
+    left: 701px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.77px;
+    text-align: left;
+    color: rgba(79, 79, 79, 1);
+}
+.custom-button02 {
+    position: absolute;
+    width: 340px;
+    height: 82px;
+    top: 1721px;
+    left: 701px;
+    padding: 29px 86px 27px 86px;
+    gap: 10px;
+    border-radius: 20px;
+    opacity: 1; 
+    color: rgb(255, 255, 255);
+    background-color: rgba(76, 64, 247, 0.8);
+}
+.cartinca2{
+    position: absolute;
+    width: 452px;
+    height: 544px;
+    top: 1207px;
+    left: 139px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca3{
+    position: absolute;
+    width: 281px;
+    height: 310px;
+    top: 1491px;
+    left: 338px;
+    gap: 0;
+    opacity: 1; 
+}
+.agritech-block8{
+    position: absolute;
+    top: 1902px;
+    width: 266px;
+    height: 28px;
+    left: 145px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(76, 64, 247, 1);
+}
+.agritech-block9 {
+    position: absolute;
+    top: 1958px;
+    width: 467px;
+    height: 234px;
+    left: 141px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 78px;
+    text-align: left;
+    color: rgba(51, 51, 51, 1);
+}
+.agritech-block10 {
+    position: absolute;
+    top: 2230px;
+    width: 517px;
+    height: 196px;
+    left: 139px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.77px;
+    text-align: left;
+    color: rgba(79, 79, 79, 1);
+}
+.custom-button03 {
+    position: absolute;
+    width: 340px;
+    height: 82px;
+    top: 2457px;
+    left: 139px;
+    padding: 29px 86px 27px 86px;
+    gap: 10px;
+    border-radius: 20px;
+    opacity: 1; 
+    color: rgb(255, 255, 255);
+    background-color: rgba(76, 64, 247, 0.8);
+}
+.cartinca4{
+    position: absolute;
+    width: 452px;
+    height: 580px;
+    top: 1930px;
+    left: 796px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca5{
+    position: absolute;
+    width: 375px;
+    height: 282px;
+    top: 2271px;
+    left: 933px;
+    gap: 0;
+    opacity: 1; 
+}
+.konec {
+    position: absolute;
+    top: 8003px;
+    width: 120px;
+    height: 28px;
+    left: 653px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: left;
+    color: rgba(76, 64, 247, 1);
+}
+.konec1{
+    position: absolute;
+    top: 8059px;
+    width: 593px;
+    height: 156px;
+    left: 419px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 70px;
+    font-weight: 500;
+    line-height: 78px;
+    text-align: center;
+    color: rgba(51, 51, 51, 1);
+}
+.konec2{
+    position: absolute;
+    top: 8251px;
+    width: 661px;
+    height: 24px;
+    left: 385px;
+    gap: 0px;
+    opacity: 1;
+    font-family: Futura PT;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33.77px;
+    text-align: center;
+    color: rgba(79, 79, 79, 1);
+}
+.cartinca6{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 139px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca7{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 344.28px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca8{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 561.16px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca9{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 822.48px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca10{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 1014.24px;
+    gap: 0;
+    opacity: 1; 
+}
+.cartinca11{
+    position: absolute;
+    width: 135.28px;
+    height: 57.98px;
+    top: 8397.66px;
+    left: 1207.92px;
+    gap: 0;
+    opacity: 1; 
+}
+.custom-button04 {
+    position: absolute;
+    width: 340px;
+    height: 82px;
+    top: 8581px;
+    left: 568px;
+    padding: 29px 86px 27px 86px;
+    gap: 10px;
+    border-radius: 20px;
+    opacity: 1; 
+    color: rgb(255, 255, 255);
+    background-color: rgba(76, 64, 247, 0.8);
+}
+
+@media only screen and (max-width: 600px) {
+  
+}
+
+
+@media only screen and (min-width: 601px) and (max-width: 900px) {
+   
+}
+
+
+@media only screen and (min-width: 901px) {
+    
+}
